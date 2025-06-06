@@ -1,0 +1,2 @@
+# JavaFullStackInternship-
+Training period details
